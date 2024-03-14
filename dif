@@ -1,5 +1,5 @@
 $ git init
-$ git add mult_strings.cpp
+$ git add mulSt.cpp
 $ git commit -m "Add program for multiplying strings"
 $ git branch main
 $ git checkout main
